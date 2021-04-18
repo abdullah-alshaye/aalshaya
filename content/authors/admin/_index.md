@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Abdullah Alshaya
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Mechanical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: Kuwait University
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include biomechanics, locomotion, hybrid stress method, inverse method, material characterization, vibration control, command shaping.
 
 # Interests to show in About widget
 interests:
