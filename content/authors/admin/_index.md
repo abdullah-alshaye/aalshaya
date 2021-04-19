@@ -25,18 +25,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Mechnaical Engineering
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Mechnaical Engineering
+    institution: University of Wisconsin - Madison
+    year: 2016
+  - course: M.A. in Mathematics
+    institution: University of Wisconsin - Madison
+    year: 2015
+  - course: M.Sc. in Engineering Mechanics
+    institution: University of Wisconsin - Madison
+    year: 2014
+  - course: M.Sc. in Mechanical Engineering
+    institution: University of Wisconsin - Madison
+    year: 2013
 
 
 # Social/Academic Networking
