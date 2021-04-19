@@ -11,7 +11,7 @@ role: Assistant Professor of Mechanical Engineering
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Kuwait University
-  url: https://www.stanford.edu/
+  url: http://kuweb.ku.edu.kw/ku/index.htm
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include biomechanics, locomotion, hybrid stress method, inverse method, material characterization, vibration control, command shaping.
