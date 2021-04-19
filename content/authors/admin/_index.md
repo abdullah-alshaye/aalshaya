@@ -37,6 +37,9 @@ education:
   - course: M.Sc. in Mechanical Engineering
     institution: University of Wisconsin - Madison
     year: 2013
+  - course: B.Sc. in Mechanical Engineering
+    institution: Kuwait University
+    year: 2008
 
 
 # Social/Academic Networking
