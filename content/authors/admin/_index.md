@@ -53,9 +53,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Abdullah-Alshaya-2
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=LZ2GIm8AAAAJ&view_op=list_works&sortby=pubdate
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
