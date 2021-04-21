@@ -18,9 +18,9 @@ bio: My research interests include biomechanics, locomotion, hybrid stress metho
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Biomechanics
+- Solid Mechanics
+- Vibration Control
 
 # Education to show in About widget
 education:
@@ -50,9 +50,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Abdullah-Alshaya-2
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
