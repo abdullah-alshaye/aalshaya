@@ -82,4 +82,4 @@ highlight_name: false
 
 Abdullah Alshya is an assistant professor of mechanical engineering at Kuwait University. His research interests include biomechanics, locomotion, hybrid stress method, inverse method, material characterization, vibration control, command shaping.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
