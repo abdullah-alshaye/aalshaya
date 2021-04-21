@@ -5,7 +5,7 @@
 
 title: Abdullah Alshaya # Website name
 baseurl: 'https://aalshaya.netlify.app/' # Website URL
-copyright: '© Copyright {2021} Abdullah Alshaya' # Footer text, e.g. '© {year} Me'
+copyright: '© Copyright 2021 by Abdullah Alshaya' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
