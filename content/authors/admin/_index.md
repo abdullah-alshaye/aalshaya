@@ -53,7 +53,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=LZ2GIm8AAAAJ&view_op=list_works&sortby=pubdate
-- icon: elsevier
+- icon: mendeley
   icon_pack: ai
   link: https://www.scopus.com/authid/detail.uri?authorId=56239265800
 - icon: orcid
@@ -65,9 +65,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://kw.linkedin.com/in/abdullah-alshaya-80798665
-- icon: scopus
-  icon_pack: ai
-  link: https://www.scopus.com/authid/detail.uri?authorId=56239265800
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
