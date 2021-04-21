@@ -53,7 +53,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=LZ2GIm8AAAAJ&view_op=list_works&sortby=pubdate
-- icon: scopus
+- icon: elsevier
   icon_pack: ai
   link: https://www.scopus.com/authid/detail.uri?authorId=56239265800
 - icon: orcid
