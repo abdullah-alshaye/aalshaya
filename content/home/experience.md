@@ -29,12 +29,7 @@ experience:
     location: Kuwait
     date_start: '2009'
     date_end: '2009'
-    description: |2-
-        Responsibilities include: Developing and Designing a Power Plant
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Developing and Designing a Power Plant
         
   - title: Professor of Semiconductor Physics
     company: University X
@@ -43,8 +38,12 @@ experience:
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    description: |2-
+        Responsibilities include: Developing and Designing a Power Plant
+        
+        * Analysing
+        * Modelling
+        * Deploying
 design:
   columns: '2'
 ---
