@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: Microsoft Office
 - description: ANSYS Mechancial APDL - COMSOL
-  icon: computer-classic
+  icon: desktop
   icon_pack: fas
   name: Engineering Simulation Software
 - description: MATLAB - EES
