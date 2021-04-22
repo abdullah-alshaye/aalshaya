@@ -7,9 +7,9 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 40
 
-title: Experience
+title: Professional Experience
 subtitle:
 
 # Date format for experience
@@ -22,15 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Power Plant Engineer
+    company: Ministry of Electricity and Water
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Kuwait
+    date_start: '2009'
+    date_end: '2009'
     description: |2-
-        Responsibilities include:
+        Responsibilities include: Developing and Designing a Power Plant
         
         * Analysing
         * Modelling
