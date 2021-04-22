@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Kuwait
-    date_start: '2009'
-    date_end: '2009'
+    date_start: '2009-01-01'
+    date_end: '2009-01-01'
     description: Developing and Designing a Power Plant
         
   - title: Professor of Semiconductor Physics
