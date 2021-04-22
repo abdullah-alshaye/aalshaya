@@ -16,6 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+- description: Arabic - English
+  icon: language
+  icon_pack: fas
+  name: Global Languages
 - description: Word - PowerPoint - Excel
   icon: microsoft
   icon_pack: fab
