@@ -24,12 +24,26 @@ date_format: Jan 2006
 experience:
   - title: Power Plant Engineer
     company: Ministry of Electricity and Water
-    company_url: ''
+    company_url: 'https://www.mew.gov.kw/en/'
     company_logo: org-gc
     location: Kuwait
     date_start: '2009-01-01'
     date_end: '2009-01-01'
     description: Developing and Designing a Power Plant
+
+  - title: Well Surveillance Engineer
+    company: Kuwait Oil Company (KOC)
+    company_url: 'https://www.kockw.com/sites/EN/Pages/Default.aspx'
+    company_logo: org-x
+    location: Kuwait
+    date_start: '2009'
+    date_end: '2011'
+    description: |2-
+        Responsibilities include:
+        
+        * Witnessing
+        * Developing
+        * Optimizing Well Production
         
   - title: Professor of Semiconductor Physics
     company: University X
