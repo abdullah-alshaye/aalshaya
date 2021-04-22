@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 40
 
 title: Professional Experience
 subtitle:
@@ -25,7 +25,7 @@ experience:
   - title: Power Plant Engineer
     company: Ministry of Electricity and Water
     company_url: 'https://www.mew.gov.kw/en/'
-    company_logo: org-mew
+    company_logo: org-x
     location: Kuwait
     date_start: '2009-07-01'
     date_end: '2009-09-01'
@@ -34,7 +34,7 @@ experience:
   - title: Well Surveillance Engineer
     company: Kuwait Oil Company (KOC)
     company_url: 'https://www.kockw.com/sites/EN/Pages/Default.aspx'
-    company_logo: org-koc
+    company_logo: org-x
     location: Kuwait
     date_start: '2009-10-01'
     date_end: '2011-08-01'
