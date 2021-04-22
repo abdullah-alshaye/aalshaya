@@ -16,22 +16,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Word - Presentation - Excel
+- description: Word - PowerPoint - Excel
   icon: microsoft
   icon_pack: fab
-  name: microsoft
-- description: 90%
-  icon: r-project
+  name: Microsoft Office
+- description: ANSYS Mechancial APDL - COMSOL
+  icon: computer-classic
   icon_pack: fab
-  name: R
+  name: Engineering Simulation Software
+- description: MATLAB - EES
+  icon: keyboard
+  icon_pack: fab
+  name: Programming and Numeric Computing Platforms
 - description: Optimization - Monte Carlo Simulation
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
