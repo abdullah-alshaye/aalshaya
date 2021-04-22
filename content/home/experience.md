@@ -27,8 +27,8 @@ experience:
     company_url: 'https://www.mew.gov.kw/en/'
     company_logo: org-gc
     location: Kuwait
-    date_start: '2009-01-01'
-    date_end: '2009-01-01'
+    date_start: '2009-07-01'
+    date_end: '2009-09-01'
     description: Developing and Designing a Power Plant
 
   - title: Well Surveillance Engineer
@@ -36,8 +36,8 @@ experience:
     company_url: 'https://www.kockw.com/sites/EN/Pages/Default.aspx'
     company_logo: org-x
     location: Kuwait
-    date_start: '2009'
-    date_end: '2011'
+    date_start: '2009-10-01'
+    date_end: '2011-08-01'
     description: |2-
         Responsibilities include:
         
