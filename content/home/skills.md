@@ -22,11 +22,11 @@ feature:
   name: Microsoft Office
 - description: ANSYS Mechancial APDL - COMSOL
   icon: computer-classic
-  icon_pack: fab
+  icon_pack: fas
   name: Engineering Simulation Software
 - description: MATLAB - EES
   icon: keyboard
-  icon_pack: fab
+  icon_pack: fas
   name: Programming and Numeric Computing Platforms
 - description: Optimization - Monte Carlo Simulation
   icon: chart-line
