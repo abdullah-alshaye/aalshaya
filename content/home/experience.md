@@ -52,7 +52,7 @@ experience:
     location: Wisconsin, US
     date_start: '2012-09-01'
     date_end: '2016-12-01'
-    description: ''
+    description: Research Assistant at Experimental Mechanial Lab supervised by Prof. Robert Rowlands
     
   - title: Assistant Professor of Mechanical Engineering
     company: Kuwait University
