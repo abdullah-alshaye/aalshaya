@@ -37,15 +37,24 @@ experience:
     company_logo: org-x
     location: Kuwait
     date_start: '2009-10-01'
-    date_end: '2011-08-01'
+    date_end: '2012-08-01'
     description: |2-
         Responsibilities include:
         
-        * Witnessing
-        * Developing
-        * Optimizing Well Production
-        
-  - title: Assistant Professor of Mechanical Engineer
+        * Witnessing Wireline and Coil-tubing jobs
+        * Developing job desription to enhance production
+        * Optimizing well production
+
+  - title: Research Scholar
+    company: University of Wisconsin - Madison
+    company_url: 'https://www.wisc.edu/'
+    company_logo: org-x
+    location: Wisconsin, US
+    date_start: '2012-09-01'
+    date_end: '2016-12-01'
+    description: ''
+    
+  - title: Assistant Professor of Mechanical Engineering
     company: Kuwait University
     company_url: ''
     company_logo: org-x
