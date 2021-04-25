@@ -25,7 +25,7 @@ experience:
   - title: Power Plant Engineer
     company: Ministry of Electricity and Water
     company_url: 'https://www.mew.gov.kw/en/'
-    company_logo: logo_mew
+    company_logo: org-x
     location: Kuwait
     date_start: '2009-07-01'
     date_end: '2009-09-01'
