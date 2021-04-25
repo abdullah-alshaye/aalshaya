@@ -29,7 +29,7 @@ experience:
     location: Kuwait
     date_start: '2009-07-01'
     date_end: '2009-09-01'
-    description: Developing and Designing Power Plant
+    description: Developing and designing power plant
 
   - title: Well Surveillance Engineer
     company: Kuwait Oil Company (KOC)
