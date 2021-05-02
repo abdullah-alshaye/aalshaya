@@ -53,6 +53,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=LZ2GIm8AAAAJ&view_op=list_works&sortby=pubdate
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/2040794/abdullah-a-alshaya/
 - icon: mendeley
   icon_pack: ai
   link: https://www.scopus.com/authid/detail.uri?authorId=56239265800
@@ -67,7 +70,7 @@ social:
   link: https://kw.linkedin.com/in/abdullah-alshaya-80798665
 - icon: cv
   icon_pack: ai
-  link: exampleSite/static/media/Resume.pdf
+  link: http://kuweb.ku.edu.kw/cs/groups/coep/documents/ku_content/kuw219328.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
