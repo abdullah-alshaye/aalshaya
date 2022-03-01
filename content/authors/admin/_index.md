@@ -14,7 +14,7 @@ organizations:
   url: http://kuweb.ku.edu.kw/ku/index.htm
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include biomechanics, locomotion, hybrid stress method, inverse method, material characterization, vibration control, command shaping.
+bio: My research interests include biomechanics, locomotion, hybrid stress analysis, inverse method, material characterization, vibration control, command shaping, and sloshing suppression.
 
 # Interests to show in About widget
 interests:
