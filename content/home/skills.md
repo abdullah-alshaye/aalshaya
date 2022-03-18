@@ -29,7 +29,7 @@ feature:
   icon_pack: fas
   name: Engineering Simulation Software
 - description: MATLAB - EES
-  icon: keyboard
+  icon: infinity
   icon_pack: fas
   name: Programming and Numeric Computing Platforms
 - description: Optimization - Monte Carlo Simulation
@@ -38,7 +38,7 @@ feature:
   name: Statistics
 - description: LaTeX
   icon: keyboard
-  icon_pack: far
+  icon_pack: fab
   name: Typesetting System
 
 # Uncomment to use emoji icons.
