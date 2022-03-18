@@ -37,7 +37,7 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: LaTeX
-  icon: typewriter
+  icon: fa-solid fa-typewriter
   icon_pack: fas
   name: Typesetting System
 
