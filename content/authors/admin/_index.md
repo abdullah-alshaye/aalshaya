@@ -68,16 +68,16 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://kw.linkedin.com/in/abdullah-alshaya-80798665
-- icon: cv
-  icon_pack: ai
-  link: http://kuweb.ku.edu.kw/cs/groups/coep/documents/ku_content/kuw219328.pdf
+# - icon: cv
+#  icon_pack: ai
+#  link: http://kuweb.ku.edu.kw/cs/groups/coep/documents/ku_content/kuw219328.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/Resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: media/Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "abdullah.alshaye@ku.edu.kw"
