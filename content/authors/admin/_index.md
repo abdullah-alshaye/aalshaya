@@ -70,7 +70,8 @@ social:
   link: https://kw.linkedin.com/in/abdullah-alshaya-80798665
 - icon: cv
   icon_pack: ai
-  link: http://kuweb.ku.edu.kw/cs/groups/coep/documents/ku_content/kuw219328.pdf
+  link: media/Resume.pdf
+  # http://kuweb.ku.edu.kw/cs/groups/coep/documents/ku_content/kuw219328.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -86,6 +87,6 @@ email: "abdullah.alshaye@ku.edu.kw"
 highlight_name: false
 ---
 
-Abdullah Alshaya AA is an assistant professor of mechanical engineering at Kuwait University. His research interests include biomechanics, locomotion, hybrid stress analysis, inverse method, material characterization, vibration control, command shaping, and sloshing suppression.
+Abdullah Alshaya is an assistant professor of mechanical engineering at Kuwait University. His research interests include biomechanics, locomotion, hybrid stress analysis, inverse method, material characterization, vibration control, command shaping, and sloshing suppression.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
