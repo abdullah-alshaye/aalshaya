@@ -36,6 +36,10 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
+- description: LaTeX
+  icon: typewriter
+  icon_pack: fas
+  name: Typesetting System
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
