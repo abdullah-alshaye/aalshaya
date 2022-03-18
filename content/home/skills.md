@@ -38,7 +38,7 @@ feature:
   name: Statistics
 - description: LaTeX
   icon: keyboard
-  icon_pack: fas
+  icon_pack: far
   name: Typesetting System
 
 # Uncomment to use emoji icons.
