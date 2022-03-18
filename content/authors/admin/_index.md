@@ -70,7 +70,7 @@ social:
   link: https://kw.linkedin.com/in/abdullah-alshaya-80798665
 - icon: cv
   icon_pack: ai
-  link: content/authors/Resume.pdf
+  link: content/authors/admin/Resume.pdf
   # http://kuweb.ku.edu.kw/cs/groups/coep/documents/ku_content/kuw219328.pdf
 
 # Link to a PDF of your resume/CV.
