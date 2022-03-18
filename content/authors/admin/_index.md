@@ -86,6 +86,6 @@ email: "abdullah.alshaye@ku.edu.kw"
 highlight_name: false
 ---
 
-Abdullah Alshaya is an assistant professor of mechanical engineering at Kuwait University. His research interests include biomechanics, locomotion, hybrid stress analysis, inverse method, material characterization, vibration control, command shaping, and sloshing suppression.
+Abdullah Alshaya AA is an assistant professor of mechanical engineering at Kuwait University. His research interests include biomechanics, locomotion, hybrid stress analysis, inverse method, material characterization, vibration control, command shaping, and sloshing suppression.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
