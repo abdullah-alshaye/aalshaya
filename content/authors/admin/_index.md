@@ -56,7 +56,7 @@ social:
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/2040794/abdullah-a-alshaya/
-- icon: mendely
+- icon: mendeley
   icon_pack: ai
   link: https://www.scopus.com/authid/detail.uri?authorId=56239265800
 - icon: orcid
