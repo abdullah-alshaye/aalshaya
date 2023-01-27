@@ -61,11 +61,7 @@ experience:
     location: Kuwait
     date_start: '2017-01-01'
     date_end: ''
-    description: |2-
-        
-        * Witnessing Wireline and Coil-tubing jobs
-        * Developing job desription to enhance production
-        * Optimizing well production
+    description: ''
 design:
   columns: '2'
 ---
