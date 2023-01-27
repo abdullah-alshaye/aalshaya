@@ -56,12 +56,16 @@ experience:
     
   - title: Assistant Professor of Mechanical Engineering
     company: Kuwait University
-    company_url: ''
+    company_url: 'http://kuweb.ku.edu.kw/ku/index.htm'
     company_logo: org-x
     location: Kuwait
     date_start: '2017-01-01'
     date_end: ''
-    description: ''
+    description: |2-
+        
+        * Witnessing Wireline and Coil-tubing jobs
+        * Developing job desription to enhance production
+        * Optimizing well production
 design:
   columns: '2'
 ---
