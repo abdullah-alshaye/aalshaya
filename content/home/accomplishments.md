@@ -28,7 +28,7 @@ item:
   organization: SSA and Company
   organization_url: https://www.ssaandco.com/
   date_start: "2011-08-01"
-  date_end: "2012-08-01"
+  date_end: "2013-08-01"
   description: ""
 
   url: ""
